@@ -1,0 +1,6 @@
+first_name = input("Your Name:")
+interest = input("Your Interest:")
+if first_name == "Waleed" and interest == "wizardry":
+    #  if interest == "wizardry"
+    print("OK!")  #error is if block is empty
+print("Welcome back to Hogwarts, Waleed!")
